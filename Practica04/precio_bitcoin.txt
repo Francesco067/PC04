@@ -1,0 +1,5 @@
+Fecha y hora: 2024-05-31 19:50:54.582550
+Cantidad de Bitcoins: 15.0
+Precio de Bitcoin en USD: $67,657.6605
+Valor total en USD: $1,014,864.9075
+----------------------------------------
